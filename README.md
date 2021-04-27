@@ -6,13 +6,13 @@ Main objective of this project is to build a classifier to predict whether a loa
 
 Dataset consists of the data from previous loan applications. Following algorithms were used to build the models:  
 
-k-Nearest Neighbour  
-Decision Tree  
-Support Vector Machine  
-Logistic Regression      
+1. k-Nearest Neighbour  
+2. Decision Tree  
+3. Support Vector Machine  
+4. Logistic Regression      
 
 The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:
 
-Jaccard index  
-F1-score  
-LogLoass  
+1. Jaccard index  
+2. F1-score  
+3. LogLoass  
